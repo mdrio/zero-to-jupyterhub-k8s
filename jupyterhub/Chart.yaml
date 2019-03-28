@@ -5,6 +5,7 @@ description: Multi-user Jupyter installation
 home: https://z2jh.jupyter.org
 sources:
   - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+  - https://github.com/mdrio/zero-to-jupyterhub-k8s.git
 icon: https://jupyter.org/assets/hublogo.svg
 kubeVersion: '>=1.11.0-0'
 tillerVersion: '>=2.11.0-0'
